@@ -1,0 +1,63 @@
+{
+  "derived_from_actual_saved_reports": true,
+  "sprite_sha256": "39e35f46415e927d7be972b7c02ea90aaec28c53c326a93b5844bac7b19f0b8f",
+  "structural_validation_passed": true,
+  "animation_quality_gate_passed": true,
+  "pets_preflight_passed": true,
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      193,
+      177,
+      190,
+      202
+    ],
+    "airborne_lift_pixels": 25,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 96.0,
+    "look_centers_x": [
+      95.5,
+      95.5,
+      94.5,
+      95.5,
+      94.5,
+      94.5,
+      95.5,
+      95.0,
+      95.5,
+      95.5,
+      95.0,
+      95.0,
+      95.0,
+      95.0,
+      95.5,
+      95.0
+    ],
+    "look_widths": [
+      95,
+      95,
+      95,
+      95,
+      95,
+      95,
+      95,
+      96,
+      95,
+      95,
+      94,
+      94,
+      94,
+      94,
+      95,
+      96
+    ],
+    "maximum_center_drift_pixels": 1.5,
+    "maximum_width_ratio": 1.0212765957446808
+  },
+  "review_notes": [
+    "部分斜向视线变化较细微，四个主要视线方向已复核。"
+  ]
+}

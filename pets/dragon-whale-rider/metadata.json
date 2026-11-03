@@ -1,0 +1,32 @@
+{
+  "name": "龙娘骑大肥鱼 夸张起伏版",
+  "target_app": "Codex",
+  "package_kind": "custom-pet",
+  "install_url": "codex://pets/install?name=%E9%BE%99%E5%A8%98%E9%AA%91%E5%A4%A7%E8%82%A5%E9%B1%BC+%E5%A4%B8%E5%BC%A0%E8%B5%B7%E4%BC%8F%E7%89%88&imageUrl=https%3A%2F%2Fraw.githubusercontent.com%2Fheypa2%2Fdragon-girl-pets%2Fmain%2Fpets%2Fdragon-whale-rider%2Fspritesheet.png&description=Codex+%E8%87%AA%E5%AE%9A%E4%B9%89%E5%AE%A0%E7%89%A9%EF%BC%9A%E9%BE%99%E5%A8%98%E9%AA%91%E5%A4%A7%E8%82%A5%E9%B1%BC+%E5%A4%B8%E5%BC%A0%E8%B5%B7%E4%BC%8F%E7%89%88&spriteVersionNumber=2",
+  "first_install_requires_network": true,
+  "sprite_version": 2,
+  "format": "PNG",
+  "transparent": true,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": 11,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "populated_frames": 73,
+  "sha256": "eb3994001aba420a713a70c2f8377b03fe22db90e580794409310ab706494b6d",
+  "bytes": 3399148
+}

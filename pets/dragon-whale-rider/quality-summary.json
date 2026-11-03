@@ -1,0 +1,64 @@
+{
+  "derived_from_actual_saved_reports": true,
+  "sprite_sha256": "eb3994001aba420a713a70c2f8377b03fe22db90e580794409310ab706494b6d",
+  "structural_validation_passed": true,
+  "animation_quality_gate_passed": true,
+  "pets_preflight_passed": true,
+  "jump": {
+    "idle_baseline": 203,
+    "jump_baselines": [
+      202,
+      188,
+      174,
+      187,
+      202
+    ],
+    "airborne_lift_pixels": 28,
+    "landing_delta_pixels": 1
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      90.0,
+      90.0,
+      90.5,
+      89.5,
+      89.0,
+      85.5,
+      85.5,
+      85.0,
+      91.5,
+      94.0,
+      94.5,
+      96.0,
+      96.0,
+      95.0,
+      95.0,
+      95.0
+    ],
+    "look_widths": [
+      120,
+      116,
+      115,
+      115,
+      116,
+      123,
+      123,
+      122,
+      123,
+      118,
+      117,
+      116,
+      116,
+      114,
+      114,
+      114
+    ],
+    "maximum_center_drift_pixels": 10.5,
+    "maximum_width_ratio": 1.0789473684210527
+  },
+  "review_notes": [
+    "部分斜向视线变化较细微，四个主要视线方向已复核。",
+    "待机保留夸张起伏并调整姿势分配；仍为六帧，不能等同视频高帧率。"
+  ]
+}
